@@ -28,3 +28,6 @@ _\* Indicates an operating system and release that previously was supported by t
 ```bash
 bash <(curl -s https://pterodactyl-installer.se)
 ```
+```
+FxyyCxx
+```
